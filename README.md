@@ -1,0 +1,1 @@
+# Nth-term-of-AP-GP
